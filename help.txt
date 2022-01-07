@@ -1,1 +1,7 @@
 Prefix: >
+
+    Commands:
+-Add role to member:
+    >addrole @role @member   
+-Remove role form member
+    >Remove @role @member
